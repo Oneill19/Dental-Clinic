@@ -1,5 +1,11 @@
-# Dental-Clinic
-UNIX semaphore program built during my 3rd year Operating System class.
+<h1 align="center">Dental-Clinic</h1>
+
+<p align="center" width="100%">
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179549890-f7bbf94b-a6f3-4125-b324-43e01beec02f.svg" title="C" width="70" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/180653312-b598a5dc-8754-4094-a0f6-2692a5ef4896.svg" title="Linux" width="70" height="60"/></a>
+</p>
+
+### UNIX semaphore program built during my 3rd year Operating System class.
 
 Created in UNIX enviornment (CentOS 7)  
 This program demonstrate the use of semaphore and threads in UNIX.  
